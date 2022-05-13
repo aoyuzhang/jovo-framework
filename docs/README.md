@@ -27,7 +27,7 @@ In this section, we will [install the Jovo CLI](#install-the-cli), [create a new
 
 ### Install the CLI
 
-You can install the new Jovo CLI like this:
+You can install the new Jovo CLI like the following:
 
 ```sh
 $ npm install -g @jovotech/cli
